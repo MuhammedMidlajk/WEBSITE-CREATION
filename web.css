@@ -1,0 +1,440 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+
+    background-color: white;
+}
+.icon img{
+    float: left;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.menu{
+
+    margin-left: 700px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.menu ul{
+
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.menu ul li{
+
+    margin-left: 50px;
+    margin-top: 30px;
+    list-style: none;
+
+    
+}
+.menu ul li a{
+
+    text-decoration: none;
+    color: black;
+}
+.blackbox  img{
+
+    width: 1300px;
+    height: 450px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 100px;
+
+
+}
+.show{
+
+    margin-left: 1200px;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    font-size:large;    
+    position: relative;
+    top: 45px;
+    
+    
+}
+.arrivel{
+
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 90PX;
+    font-size: large;
+    
+
+}
+.conteiner{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.rowone{
+    
+    width: 400px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 50px;
+    border-radius: 10PX;
+    background-color: whitesmoke;
+}
+.picone img{
+
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+.porsche{
+
+    margin-left: 300px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.more{
+
+    width: 150px;
+    height: 40px;
+    margin-left: 30px;
+    border-radius: 10px;
+     background-color:darkblue;
+     color: white;
+     margin-top: -20px;
+}
+.macan{
+
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.small{
+
+    width: 370px;
+    height: 70px;
+    border: solid 1px;
+    margin-left: 15px;
+    margin-top: 45px;
+    border-radius: 10px;
+    
+}
+.reg{
+
+    margin-left: 30px;
+    margin-top: -60px;
+    font-size: small;
+}
+.line{
+
+    width: 1px;
+    height: 60px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.kilomtr{
+
+    margin-left: 120px;
+    margin-top: -55px;
+    font-size: small;
+}
+.linetwo{
+
+    width: 1px;
+    height: 60px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: -50px;
+} 
+.fuel{
+
+    margin-left: 220px;
+    margin-top: -55px;
+    font-size: small;
+}
+.linethree{
+
+    width: 1px;
+    height: 60px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -50px;
+
+}
+.state{
+
+    margin-left: 320px;
+    margin-top: -55px;
+    font-size: small;
+    
+}
+.rowtwo{
+    
+    width: 400px;
+    height: 500px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 10PX;
+    background-color: whitesmoke;
+}
+.pictwo img{
+
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+.vogue{
+
+    margin-left: 300px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.morethan{
+
+    width: 150px;
+    height: 40px;
+    margin-left: 30px;
+    border-radius: 10px;
+     background-color:darkblue;
+     color: white;
+     margin-top: -20px;
+}
+.range{
+
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.big{
+
+    width: 370px;
+    height: 70px;
+    border: solid 1px;
+    margin-left: 15px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+.regtwo{
+
+    margin-left: 30px;
+    margin-top: -60px;
+    font-size: small;
+}
+.linetwook{
+
+    width: 1px;
+    height: 60px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.kilomtrtwo{
+
+    margin-left: 120px;
+    margin-top: -55px;
+    font-size: small;
+}
+.linetwobro{
+
+    width: 1px;
+    height: 60px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: -50px;
+} 
+.fuelok{
+
+    margin-left: 220px;
+    margin-top: -55px;
+    font-size: small;
+}
+.linethreeok{
+
+    width: 1px;
+    height: 60px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -50px;
+
+}
+.stateok{
+
+    margin-left: 320px;
+    margin-top: -55px;
+    font-size: small;
+    
+}
+.rowthree{
+    
+    width: 400px;
+    height: 500px;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 10PX;
+    background-color: whitesmoke;
+}
+.picthree img{
+
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+.potoone img{
+
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.pototwo img{
+
+    width: 45px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.potothree img{
+
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.potofive img{
+
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.potosix img{
+
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.potoseven img{
+
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.table{
+
+    margin-left: 250px;
+    border-collapse: collapse;
+    width: 1000px;
+    margin-top: 80px;
+    
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+}
+th{
+
+    background-color: darkblue;
+    color: white;
+    font-weight: normal
+}
+.brand{
+
+    padding-left: 40px;
+}
+.model{
+
+    padding-left: 60px;
+}
+.form{
+
+    margin-left: 100px;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.main form{
+
+   
+    margin-left: 250px;
+    border-collapse: collapse;
+    width: 1000px;
+    margin-top: 80px;
+    
+}
+input{
+
+    border: none;
+    border-bottom: 1px solid black;
+    width: 700px;
+    padding: 20px;
+}
+h3{
+
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    margin-left: -30px;
+}
+.formdot img{
+
+    width: 1200px;
+    height: 250px;
+    margin-left: 180px;
+    margin-top: 50px;
+    border-radius: 20px;
+    
+}
+h1{
+
+    color:white;
+    margin-left: 220px;
+    margin-top: -160px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.are{
+
+    color: rgb(183, 179, 179);
+    margin-left: 220px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.labelone{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+.labeltwo{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.labelthree{
+
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.GMC img{
+
+    width: 1520PX;
+    margin-top: 50PX;
+}
+option{
+
+    font-size: small;
+    
+}
+
+
+
